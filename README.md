@@ -117,11 +117,13 @@ To download and install Burmese pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/my_mm/my_MM.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/my_mm/`
 
-See this screenshot
+See this screenshot:
 
 ![Burmese pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **my_mm**
 
 #### Step 2: Flush cache
 
