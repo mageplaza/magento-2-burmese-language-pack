@@ -121,7 +121,7 @@ Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/
 
 See this screenshot
 
-![Burmese pack](https://cdn2.mageplaza.com/media/general2/tS668yC.png)
+![Burmese pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
 
 #### Step 2: Flush cache
 
