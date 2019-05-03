@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Burmese Language Pack](https://www.mageplaza.com/magento-2-burmese-language-pack.html)
 
+![Mageplaza Burmese language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
